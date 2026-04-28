@@ -49,10 +49,11 @@ pip install -r requirements.txt
 fringe_fg_run_pass/
 ├─ README.md
 ├─ .gitignore
+├─ checkpoints/
+│  ├─ checkpoint_1.ipynb
+   └─ checkpoint_2.ipynb
 └─ notebooks/
-   ├─ main_notebook.ipynb
-   ├─ project_proposal.ipynb
-   └─ eda.ipynb
+   └─ main_notebook.ipynb
 ```
 
 ## Results Summary
